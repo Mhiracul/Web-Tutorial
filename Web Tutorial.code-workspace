@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Web Tutorial",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Tutorial"
+	}
+}
